@@ -61,6 +61,10 @@ def handle_dialog(res, req):
                 {
                     'title': 'Нет',
                     'hide': True
+                },
+                {
+                    'title': 'помощь',
+                        'hide': False
                 }
             ]
     else:
